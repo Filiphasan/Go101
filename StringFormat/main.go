@@ -32,4 +32,5 @@ func main() {
 	var lastName = "Erdal"
 	var fullName = fmt.Sprintf("%s %s", firstName, lastName)
 	fmt.Println(fullName)
+
 }
