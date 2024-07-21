@@ -12,3 +12,4 @@
 - [Exam Score Analyze](ExamScoreAnalyze/main.go)
 - [Loop](Loop/main.go)
 - [FizzBuzz](FizzBuzz/main.go)
+- [Arrays](Arrays/main.go)
