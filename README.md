@@ -11,3 +11,4 @@
 - [Conditional](Conditional/main.go)
 - [Exam Score Analyze](ExamScoreAnalyze/main.go)
 - [Loop](Loop/main.go)
+- [FizzBuzz](FizzBuzz/main.go)
