@@ -10,3 +10,4 @@
 - [BodyMassIndexCalc](BodyMassIndexCalc/main.go)
 - [Conditional](Conditional/main.go)
 - [Exam Score Analyze](ExamScoreAnalyze/main.go)
+- [Loop](Loop/main.go)
