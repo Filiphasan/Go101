@@ -13,3 +13,4 @@
 - [Loop](Loop/main.go)
 - [FizzBuzz](FizzBuzz/main.go)
 - [Arrays](Arrays/main.go)
+- [Array Example](ArrayExample/main.go)
