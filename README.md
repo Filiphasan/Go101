@@ -22,3 +22,6 @@
   - [Anonymous Func](Functions/anonymous_func.go)
   - [Defer](Functions/defer.go)
 - [Structs](Structs/main.go)
+  - [Basics](Structs/main.go)
+  - [Methods](Structs/methods.go)
+  - [Custom Variable Type](Structs/custom_variable_types.go)
