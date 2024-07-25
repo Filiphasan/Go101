@@ -25,3 +25,4 @@
   - [Basics](Structs/main.go)
   - [Methods](Structs/methods.go)
   - [Custom Variable Type](Structs/custom_variable_types.go)
+- [Interfaces](Interfaces/main.go)
