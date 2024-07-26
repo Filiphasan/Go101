@@ -26,3 +26,6 @@
   - [Methods](Structs/methods.go)
   - [Custom Variable Type](Structs/custom_variable_types.go)
 - [Interfaces](Interfaces/main.go)
+- [Pointers](Pointers/main.go)
+  - [Basics](Pointers/main.go) 
+  - [Func with Pointers](Pointers/func_with_pointer.go)
