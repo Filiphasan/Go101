@@ -31,3 +31,4 @@
   - [Func with Pointers](Pointers/func_with_pointer.go)
 - [Strings](Strings/main.go)
 - [Package Example](PackageExample/main.go)
+  - [Custom Package](PackageExample/customPackage/custom_package.go)
