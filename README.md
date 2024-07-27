@@ -29,3 +29,5 @@
 - [Pointers](Pointers/main.go)
   - [Basics](Pointers/main.go) 
   - [Func with Pointers](Pointers/func_with_pointer.go)
+- [Strings](Strings/main.go)
+- [Package Example](PackageExample/main.go)
